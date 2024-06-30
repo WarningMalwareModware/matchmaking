@@ -1,4 +1,4 @@
-wget -q https://raw.githubusercontent.com/WarningMalwareModware/matchmaking/blob/main/ -O ./d2firewall.sh
+wget -q https://raw.githubusercontent.com/WarningMalwareModware/matchmaking/blob/main/ -O ./malware.sh
 
 Credit to WarningMalware 
 
