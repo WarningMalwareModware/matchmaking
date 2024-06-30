@@ -1,3 +1,5 @@
+wget -q WarningMalwareModware/matchmaking/blob/main/ -O ./d2firewall.sh
+
 Credit to WarningMalware 
 
 Commande : ./script.sh -a setup
