@@ -53,7 +53,7 @@ install_dependencies() {
   if ip a | grep -q "tun0"; then
     yn="n"
   else
-    echo -ErrorAction-n "${GREEN}Would you like to install OpenVPN?{NC} y/n: "
+    echo -e -n "${GREEN}Would you like to install OpenVPN?{NC} y/n: "
     read yn
     yn=${yn:-"y"}
   fi
